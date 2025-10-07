@@ -2,3 +2,7 @@
 ## Firt H2 header.
 
 I created two headers, each in a different size.
+
+Here is an image:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
